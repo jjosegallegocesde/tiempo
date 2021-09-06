@@ -16,6 +16,7 @@ public class Tiempo {
      */
     public static void main(String[] args) {
         int intro=5;
+        String nombre="juan";
     }
     
 }
